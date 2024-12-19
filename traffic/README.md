@@ -1,0 +1,2 @@
+At first i forgot to resize the images and after some tests and some searches i found out that i had to resize them to have them the correct size for the input layer.
+For the model, i tried a similar approach to the video lesson, with the 32 filters on a 3x3 grid and the pooling layer, which had an almost perfect performance, i also added a droput rate to avoid overfitting in the neural network.
